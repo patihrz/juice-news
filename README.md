@@ -1,42 +1,39 @@
-📱 Juice News
-Juice News adalah aplikasi berita modern berbasis React yang menampilkan informasi terkini dari berbagai kategori — dengan desain futuristik, full animasi, dan pengalaman baca yang nyaman.
+# 📱 Juice News
+
+Juice News adalah aplikasi berita modern berbasis React yang menampilkan informasi terkini dari berbagai kategori — **dengan desain futuristik, full animasi, dan pengalaman baca yang nyaman**.
 
 🎯 Fokus utama: menyajikan berita lokal dan dunia yang informatif dan interaktif untuk pengguna Indonesia.
 
-🔗 Lihat Live Website
+[🔗 Lihat Live Website](https://juice-news-ochre.vercel.app/)
 
-🚀 Fitur Unggulan
-✅ Berita Terkini dari berbagai topik: teknologi, olahraga, hiburan, sains, bisnis.
+---
 
-🔍 Pencarian Cepat berita dengan tampilan real-time.
+## 🚀 Fitur Unggulan
 
-🌗 Mode Gelap & Terang yang bisa diubah langsung.
+- ✅ **Berita Terkini** dari berbagai topik: teknologi, olahraga, hiburan, sains, bisnis.
+- 🔍 **Pencarian Cepat** berita dengan tampilan real-time.
+- 🌗 **Mode Gelap & Terang** yang bisa diubah langsung.
+- 📌 **Bookmark Berita** favorit ke halaman tersendiri.
+- 🔄 **Infinite Scroll** untuk pengalaman membaca tanpa batas.
+- 🌐 **Terjemahkan Berita** via Google Translate.
+- ⚙️ **Halaman Pengaturan** interaktif.
+- 💾 **LocalStorage Caching** untuk menghemat permintaan API.
+- 📱 **Responsif & Mobile-Friendly**, cocok di semua device.
 
-📌 Bookmark Berita favorit ke halaman tersendiri.
+---
 
-🔄 Infinite Scroll untuk pengalaman membaca tanpa batas.
+## 🛠️ Teknologi
 
-🌐 Terjemahkan Berita via Google Translate.
+- **Frontend:** React, Tailwind CSS, Framer Motion, React Router
+- **API:** [GNews API](https://gnews.io/)
+- **Deploy:** [Vercel](https://vercel.com/)
+- **Dev Tools:** Vite, React DevTools
 
-⚙️ Halaman Pengaturan interaktif.
+---
 
-💾 LocalStorage Caching untuk menghemat permintaan API.
+## 📁 Struktur Folder
 
-📱 Responsif & Mobile-Friendly, cocok di semua device.
-
-🛠️ Teknologi
-Frontend: React, Tailwind CSS, Framer Motion, React Router
-
-API: GNews API
-
-Deploy: Vercel
-
-Dev Tools: Vite, React DevTools
-
-📁 Struktur Folder
-bash
-Copy
-Edit
+```bash
 juice-news/
 │
 ├── public/
@@ -52,10 +49,13 @@ juice-news/
 ├── .gitignore
 ├── package.json
 └── vite.config.js
-📦 Cara Menjalankan Lokal
-bash
-Copy
-Edit
+```
+
+---
+
+## 📦 Cara Menjalankan Lokal
+
+```bash
 # 1. Clone repo
 git clone https://github.com/patihrz/juice-news.git
 cd juice-news
@@ -68,6 +68,11 @@ VITE_GNEWS_API_KEY=masukkan_api_key_anda
 
 # 4. Jalankan lokal
 npm run dev
-👨‍💻 Dibuat Oleh
-Patih Ramadika
-GitHub | LinkedIn
+```
+
+---
+
+## 👨‍💼 Dibuat Oleh
+
+**Patih Ramadika**  
+[GitHub](https://github.com/patihrz) | [LinkedIn](https://id.linkedin.com/in/patih-ramadika-19b763217)
