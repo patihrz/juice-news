@@ -1,0 +1,13 @@
+# .gitignore
+
+# Folder dependency (jangan diupload karena terlalu besar)
+node_modules/
+
+# Folder hasil build (hasil produksi, gak perlu dimasukin repo)
+dist/
+
+# File environment yang berisi API Key, harus rahasia
+.env
+
+# Cache Vite (opsional, buat bersih aja)
+.vite
