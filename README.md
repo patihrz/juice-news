@@ -4,7 +4,7 @@ Juice News adalah aplikasi berita modern berbasis React yang menampilkan informa
 
 🎯 Fokus utama: menyajikan berita lokal dan dunia yang informatif dan interaktif untuk pengguna Indonesia.
 
-[🔗 Lihat Live Website](https://juice-news-ochre.vercel.app/)
+[🔗 Lihat Live Website](https://juice-news-3pw4p8w81-patihrzs-projects.vercel.app/)
 ![JUICE NEWS](https://github.com/user-attachments/assets/84b2f19f-5c55-4cf5-9825-c877ffbc1db5)
 ---
 
